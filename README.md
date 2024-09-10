@@ -1,7 +1,7 @@
 - 👋 Hello, I'm Annemarie Weise
 - 👀 I'm interested in computer science (especially big data analytics), biology (especially genetics) and art.
 - 🌱 I'm currently studying bioinformatics in Halle.
-- 😄 Pronouns: she/he
+- 😄 Pronouns: she/her
 
 <!---
 Annemarie-Weise/Annemarie-Weise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
